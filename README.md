@@ -1,5 +1,5 @@
 # MiffyPad
-This is a keypad that I made based on Miffy as an accessory
+This is a keypad that I made based on Miffy as an accessory, it has all the letters, with an asterisk in place of the 2nd F
 ![cover image](Images/Full.png)
 
 ## Schematic
