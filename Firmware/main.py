@@ -24,9 +24,10 @@ keyboard.matrix = KeysScanner(
 )
 
 keyboard.keymap = [
-    [KC.Y, KC.KP_ASTERISK, KC.F, KC.M, KC.I]
+    [KC.Y, KC.F, KC.F, KC.M, KC.I]
 ]
 
 # Start kmk!
 if __name__ == '__main__':
+
     keyboard.go()
