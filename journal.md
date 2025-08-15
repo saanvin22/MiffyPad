@@ -13,6 +13,7 @@ I finally got the case and set to assembling my Miffypad. I started by soldering
 board to tilt when I placed the case, so using pliers, I bent the pins in the back, and that fixed the issue. Then I put the PCB in the case and attached the screws and nuts. I wanted to make it removable as I'll be getting a 
 3D printer and I wanted to try to make different cases for the hackpad in the future. Then I added the keycaps and uploaded the code, and I was good to go.
 
+https://youtu.be/KvLJUB490SI
 
 ![IMG_4129](https://github.com/user-attachments/assets/dbf583c6-63d4-46dd-b88a-92177f6cf857)
 ![IMG_4134](https://github.com/user-attachments/assets/fd422db1-774f-4ec2-bd80-b463aa7a41e0)
