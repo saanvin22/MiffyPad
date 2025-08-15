@@ -1,6 +1,8 @@
 # MiffyPad
 This is a keypad that I made based on Miffy as an accessory, it has all the letters!
 
+https://youtu.be/KvLJUB490SI 
+
 ![IMG_4135](https://github.com/user-attachments/assets/cda01cfa-5036-422c-8763-9c509df5eab6)
 
 ![cover image](Images/Full.png)
